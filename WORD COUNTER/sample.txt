@@ -1,0 +1,10 @@
+Java is a popular, class-based, object-oriented programming language.
+It is designed to have as few implementation dependencies as possible!
+Why do programmers love Java?
+Programmers love Java because Java is versatile, reliable, and secure.
+
+Java code can run on all platforms that support Java without the need to recompile.
+Is Java still relevant today?
+Yes! Java continues to evolve with modern features, high performance, and massive community support.
+Clean code in Java makes software maintainable, robust, and elegant.
+Code every day, practice Java, and master problem solving!
